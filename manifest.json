@@ -1,0 +1,19 @@
+{
+  "name": "JardimPro - Gestão de Jardinagem",
+  "short_name": "JardimPro",
+  "description": "Clientes, agenda, tarefas, pagamentos e gestão de jardinagem.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#071b12",
+  "theme_color": "#123a26",
+  "orientation": "portrait",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
