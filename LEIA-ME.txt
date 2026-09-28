@@ -1,0 +1,17 @@
+JARDIMPRO — APLICATIVO
+=======================
+
+Arquivos:
+- index.html: aplicativo
+- manifest.json: configuração de instalação
+- sw.js: funcionamento offline
+- icon.svg: ícone
+
+COMO INSTALAR NO ANDROID:
+1. Coloque estes arquivos em um endereço HTTPS (site/servidor).
+2. Abra o endereço no Chrome.
+3. Toque no menu ⋮ e escolha "Adicionar à tela inicial" ou "Instalar aplicativo".
+4. O JardimPro aparecerá como um aplicativo separado.
+
+OBSERVAÇÃO:
+A versão atual guarda os dados localmente no aparelho/navegador. Para sincronizar entre celulares/computadores, login, notificações e banco de dados online, será necessária uma próxima versão com backend.
